@@ -13,13 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/KeinerL/Pagina_web_QA/issues"
   },
   "homepage": "https://github.com/KeinerL/Pagina_web_QA#readme",
   "dependencies": {
     "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "postgres": "^3.4.9"
   }
