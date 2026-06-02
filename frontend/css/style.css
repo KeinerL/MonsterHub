@@ -65,7 +65,7 @@ main {
 
 .title{
     font-size: 4em;
-    margin-top: 3%;
+    margin-top: 5%;
     margin-left: 4%;
     margin-right: 4%;
     color: #D8D0B8;
@@ -110,13 +110,13 @@ main {
 }
 
 .logo {
-    width: 10%;
+    width: 12%;
     margin: 1%;
     height: auto;
 }
 
 .logo2 {
-    width: 10%;
+    width: 12%;
     margin: 1%;
     height: auto;
 }
